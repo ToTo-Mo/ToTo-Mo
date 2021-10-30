@@ -1,3 +1,9 @@
+
+
+🌱 Learning 🌱
+<a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/[C++]-[#00599C]?style=flat-square&logo=[c++]&logoColor=white"/></a>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToTo-Mo&show_icons=true&theme=radical)
 
 <!--
