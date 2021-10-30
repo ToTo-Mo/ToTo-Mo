@@ -2,7 +2,7 @@
 
 🌱 Learning 🌱
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/C++-#00599C?style=flat-square&logo=c++&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToTo-Mo&show_icons=true&theme=radical)
